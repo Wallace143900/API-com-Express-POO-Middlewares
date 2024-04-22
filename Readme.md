@@ -1,7 +1,7 @@
 Criando uma API de um catálogo de cursos
 
-app.ts = Arquivo principal, onde instânciei o express
-server.ts = Responsável por iníciar o servidor local.
+app.ts = Arquivo principal, onde instânciei o express,
+server.ts = Responsável por iniciar o servidor local.
 
 =============================================================================================================================================
 
